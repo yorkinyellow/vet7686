@@ -1,0 +1,14 @@
+{
+  "name": "vet7686",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ufa24h Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ ufa24h เว็บเดิมพันที่ดีที่สุด รองรับการเล่นเกมคาสิโนได้ทุกค่ายดัง",
+  "keywords": [
+    "ufa24h Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ ufa24h เว็บเดิมพันที่ดีที่สุด รองรับการเล่นเกมคาสิโนได้ทุกค่ายดัง"
+  ],
+  "repository": "https://github.com/yorkinyellow/vet7686",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
